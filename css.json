@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Which of these elements in HTML can be used for making a text bold?",
+        "answer_1": "<a>",
+        "answer_2": "<pre>",
+        "answer_3": "<br>",
+        "answer_4": "<b>",
+        "right_answer": "<b>"
+    },
+    {
+        "title": " tag do we use in HTML for inserting a line-break?",
+        "answer_1": "<a>",
+        "answer_2": "<br>",
+        "answer_3": "<b>",
+        "answer_4": "<pre>",
+        "right_answer": "<br>"
+    },
+    {
+        "title": "Which of the following CSS framework is used to create a responsive design?",
+        "answer_1": "django",
+        "answer_2": "rails",
+        "answer_3": "larawell",
+        "answer_4": "bootstrap",
+        "right_answer": "bootstrap"
+    },
+    {
+        "title": " Which of the following CSS selector is used to specify a rule to bind a particular unique element?",
+        "answer_1": "tag",
+        "answer_2": "id",
+        "answer_3": "class",
+        "answer_4": "both class and tag",
+        "right_answer": "id"
+    },
+    {
+        "title": "Which of the following type of HTML tag is used to define an internal style sheet?",
+        "answer_1": "<script>",
+        "answer_2": "<link>",
+        "answer_3": "<class>",
+        "answer_4": "<style>",
+        "right_answer": "<style>"
+    },
+    {
+        "title": "What Is The Tag That Not Exists in HTML",
+        "answer_1": "<object>",
+        "answer_2": "<basefont>",
+        "answer_3": "<abbr>",
+        "answer_4": "All Tags Is Exists in HTML",
+        "right_answer": "All Tags Is Exists in HTML"
+    },
+    {
+        "title": "How We Specify Document Type Of HTML5 Page",
+        "answer_1": "<DOCTYPE html>",
+        "answer_2": "<DOCTYPE html5>",
+        "answer_3": "<!DOCTYPE html5>",
+        "answer_4": "<!DOCTYPE html>",
+        "right_answer": "<!DOCTYPE html>"
+    },
+    {
+        "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+        "answer_1": "<article>",
+        "answer_2": "<section>",
+        "answer_3": "<blockquote>",
+        "answer_4": "<aside>",
+        "right_answer": "<blockquote>"
+    },
+    {
+        "title": "In HTML Can We Use This Way To Add Attributes",
+        "answer_1": "<div class='class-name'>",
+        "answer_2": "<div class=class-name>",
+        "answer_3": "<div class=\"class-name\">",
+        "answer_4": "All Is Right",
+        "right_answer": "All Is Right"
+    },
+    {
+        "title": "In how many ways can CSS be written in?",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "3",
+        "answer_4": "4",
+        "right_answer": "3"
+    }
+]
